@@ -56,9 +56,9 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=parinitat19-beep&theme=dark&hide_border=true&show_icons=true&count_private=false" height="150"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parinitat19-beep&theme=dark&hide_border=true&layout=compact&count_private=false" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=parinitat19-beep&theme=tokyonight&hide_border=true&show_icons=true&rank_icon=github" height="150"/>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parinitat19-beep&theme=tokyonight&hide_border=true&layout=compact" height="150"/>
 </p>
 
 ---
@@ -66,11 +66,11 @@
 ### 🔥 Streak
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=parinitat19-beep&theme=dark&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=parinitat19-beep&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=parinitat19-beep&icon=0&color=0" alt="visitor count"/>
+  <img src="https://komarev.com/ghpvc/?username=parinitat19-beep&style=flat&color=blue" alt="profile views"/>
 </p>
