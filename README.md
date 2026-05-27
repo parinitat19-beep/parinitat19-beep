@@ -53,21 +53,9 @@
 
 ---
 
-### 📈 GitHub Stats
+### 📊 Contribution Graph
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=parinitat19-beep&theme=tokyonight&hide_border=true&show_icons=true&rank_icon=github" height="150"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parinitat19-beep&theme=tokyonight&hide_border=true&layout=compact" height="150"/>
-</p>
-
----
-
-### 🔥 Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=parinitat19-beep&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
-</p>
+[![Parinita's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=parinitat19-beep&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
