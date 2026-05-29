@@ -21,7 +21,7 @@
 
 ## About Me
 
-Full Stack and DevOps Engineer with experience building end-to-end systems — from responsive frontends to containerized backends deployed on cloud infrastructure. I work across the full stack: designing clean UIs, building REST APIs, setting up CI/CD pipelines, and engineering data workflows that scale.
+Full Stack and DevOps Engineer with experience building end-to-end systems from responsive frontends to containerized backends deployed on cloud infrastructure. I work across the full stack: designing clean UIs, building REST APIs, setting up CI/CD pipelines, and engineering data workflows that scale.
 
 - 🔭 Focused on **Full Stack Development** and **DevOps / Cloud Engineering**
 - ⚙️ Building with React, Next.js, Node.js, Docker, AWS, and GCP
@@ -95,9 +95,9 @@ Full Stack and DevOps Engineer with experience building end-to-end systems — f
 | Project | Description | Tech |
 |---|---|---|
 | [Urban-Flooding](https://github.com/parinitat19-beep/Urban-Flooding-) | Real-time urban flood monitoring and geospatial risk analysis | Python · Data Engineering |
-| [Velocis](https://github.com/parinitat19-beep/Velocis) | AI engineer in your repo — automated code reviews, tests & docs | TypeScript · GenAI |
+| [Velocis](https://github.com/parinitat19-beep/Velocis) | AI engineer in your repo automated code reviews, tests & docs | TypeScript · GenAI |
 | [Aegis](https://github.com/parinitat19-beep/Aegis) | Full-stack disaster management platform with real-time alerts | TypeScript · Full Stack |
-| [StockMaster](https://github.com/parinitat19-beep/StockMaster) | Inventory management system — Odoo Hackathon | TypeScript |
+| [StockMaster](https://github.com/parinitat19-beep/StockMaster) | Inventory management system Odoo Hackathon | TypeScript |
 | [DevOps Bootcamp](https://github.com/parinitat19-beep/DevOps-Bootcamp) | Structured DevOps learning: CI/CD, Kubernetes, IaC | DevOps · Cloud |
 
 ---
