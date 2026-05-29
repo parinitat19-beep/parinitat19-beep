@@ -1,15 +1,19 @@
-<h1 align="center">Hi, I'm Parinita Tiwari 👋</h1>
+<h1 align="center">Parinita Tiwari</h1>
 
 <p align="center">
-  <b>Full Stack Engineer · DevOps · Cloud · Data Engineering</b><br/>
-  📍 Bengaluru, India &nbsp;|&nbsp; 📬 <a href="mailto:parinita.t19@gmail.com">parinita.t19@gmail.com</a>
+  <b>Full Stack Engineer &nbsp;·&nbsp; DevOps &nbsp;·&nbsp; Cloud &nbsp;·&nbsp; Data Engineering</b>
 </p>
 
 <p align="center">
-  <a href="https://instagram.com/tiwariparinita.t19"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
-  <a href="https://x.com/parinita_t19"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" /></a>
-  <a href="https://reddit.com/user/Parinita_19"><img src="https://img.shields.io/badge/Reddit-FF4500?style=flat-square&logo=reddit&logoColor=white" /></a>
-  <a href="mailto:parinita.t19@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  📍 Bengaluru, India &nbsp;|&nbsp;
+  📬 <a href="mailto:parinita.t19@gmail.com">parinita.t19@gmail.com</a>
+</p>
+
+<p align="center">
+  <a href="https://instagram.com/tiwariparinita.t19"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>&nbsp;
+  <a href="https://x.com/parinita_t19"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" /></a>&nbsp;
+  <a href="https://reddit.com/user/Parinita_19"><img src="https://img.shields.io/badge/Reddit-FF4500?style=flat-square&logo=reddit&logoColor=white" /></a>&nbsp;
+  <a href="mailto:parinita.t19@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>&nbsp;
   <img src="https://komarev.com/ghpvc/?username=parinitat19-beep&style=flat-square&color=58a6ff&label=Profile+Views" />
 </p>
 
@@ -17,12 +21,12 @@
 
 ## About Me
 
-Full Stack and DevOps Engineer with hands-on experience building end-to-end systems — from responsive frontends to containerized backends deployed on cloud infrastructure. I enjoy working across the full stack: designing clean UIs, building robust REST APIs, setting up CI/CD pipelines, and engineering data workflows that scale.
+Full Stack and DevOps Engineer with experience building end-to-end systems — from responsive frontends to containerized backends deployed on cloud infrastructure. I work across the full stack: designing clean UIs, building REST APIs, setting up CI/CD pipelines, and engineering data workflows that scale.
 
-- 🔭 Currently focused on **Full Stack Development** and **DevOps/Cloud Engineering**
-- 🌱 Working with React, Next.js, Node.js, Docker, AWS, and GCP
-- 💡 Interested in scalable system design, automation, and data pipelines
-- 📍 Based in Bengaluru, India
+- 🔭 Focused on **Full Stack Development** and **DevOps / Cloud Engineering**
+- ⚙️ Building with React, Next.js, Node.js, Docker, AWS, and GCP
+- 📊 Experienced in data engineering with Apache Spark, Hadoop, and SQL
+- 🎨 Background in UI/UX design with Figma, Illustrator, and Photoshop
 
 ---
 
@@ -35,7 +39,6 @@ Full Stack and DevOps Engineer with hands-on experience building end-to-end syst
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Scala](https://img.shields.io/badge/Scala-DC322F?style=flat-square&logo=scala&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 
 **Frontend**
 
@@ -43,6 +46,7 @@ Full Stack and DevOps Engineer with hands-on experience building end-to-end syst
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232a?style=flat-square&logo=react&logoColor=61DAFB)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 
 **Backend**
 
@@ -57,6 +61,7 @@ Full Stack and DevOps Engineer with hands-on experience building end-to-end syst
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=dotnet&logoColor=white)
 
 **Databases**
 
@@ -74,27 +79,27 @@ Full Stack and DevOps Engineer with hands-on experience building end-to-end syst
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
+**Design & Tools**
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
+
 ---
 
 ## Projects
 
 | Project | Description | Tech |
 |---|---|---|
-| [Urban-Flooding](https://github.com/parinitat19-beep/Urban-Flooding-) | Real-time urban flood monitoring and geospatial risk analysis | Python, Data Engineering |
-| [Velocis](https://github.com/parinitat19-beep/Velocis) | AI engineer embedded in your repo — automated code reviews, tests & docs | TypeScript, GenAI |
-| [Aegis](https://github.com/parinitat19-beep/Aegis) | Full-stack disaster management platform with real-time alerts | TypeScript, Full Stack |
-| [StockMaster](https://github.com/parinitat19-beep/StockMaster) | Inventory management system built at Odoo Hackathon | TypeScript |
-| [DevOps Bootcamp](https://github.com/parinitat19-beep/DevOps-Bootcamp) | Structured DevOps learning — CI/CD, Kubernetes, IaC | DevOps, Cloud |
+| [Urban-Flooding](https://github.com/parinitat19-beep/Urban-Flooding-) | Real-time urban flood monitoring and geospatial risk analysis | Python · Data Engineering |
+| [Velocis](https://github.com/parinitat19-beep/Velocis) | AI engineer in your repo — automated code reviews, tests & docs | TypeScript · GenAI |
+| [Aegis](https://github.com/parinitat19-beep/Aegis) | Full-stack disaster management platform with real-time alerts | TypeScript · Full Stack |
+| [StockMaster](https://github.com/parinitat19-beep/StockMaster) | Inventory management system — Odoo Hackathon | TypeScript |
+| [DevOps Bootcamp](https://github.com/parinitat19-beep/DevOps-Bootcamp) | Structured DevOps learning: CI/CD, Kubernetes, IaC | DevOps · Cloud |
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=parinitat19-beep&show_icons=true&theme=github_dark&hide_border=true&count_private=false" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parinitat19-beep&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
-</p>
-
----
-
-*"First, solve the problem. Then, write the code." — John Johnson*
+> *"First, solve the problem. Then, write the code."*
