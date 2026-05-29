@@ -1,131 +1,88 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:E040FB,100:FF6584&height=200&section=header&text=Parinita%20Tiwari&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Dev%20%7C%20Data%20Engineer%20%7C%20Cloud%20Architect&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
+<!-- Snake animation header alternative: venom/cylinder style capsule -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,30:1a1a2e,60:16213e,100:0f3460&height=220&text=Parinita%20Tiwari&fontSize=65&fontColor=58a6ff&fontAlignY=45&stroke=58a6ff&strokeWidth=1&animation=blinking&desc=Full%20Stack%20Engineer%20%7C%20DevOps%20%26%20Cloud&descAlignY=62&descSize=17&descColor=8b949e" width="100%" />
 
-<!-- Typing SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Hey+there!+I'm+Parinita+%F0%9F%91%8B;Full+Stack+%7C+Data+%7C+Cloud+Engineer;Building+things+that+matter+%F0%9F%9A%80;React+%7C+Python+%7C+AWS+%7C+Spark;Always+learning%2C+always+shipping+%E2%9C%A8" alt="Typing SVG" />
+<!-- Typing SVG — recruiter-focused, sharp identity -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=🚀+Full+Stack+Engineer+%7C+React+·+Node+·+Next.js;☁️+DevOps+%7C+AWS+·+Docker+·+Jenkins+·+GCP;🔥+Data+Engineering+%7C+Spark+·+Hadoop+·+SQL;📍+Bengaluru%2C+India+%7C+Open+to+Opportunities;💡+I+build+scalable+systems+end-to-end" alt="Typing SVG" />
 
 <br/>
 
-<!-- Profile views + Social badges -->
-[![Profile Views](https://komarev.com/ghpvc/?username=parinitat19-beep&color=6C63FF&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/parinitat19-beep)
-[![GitHub followers](https://img.shields.io/github/followers/parinitat19-beep?style=for-the-badge&color=E040FB&labelColor=1a1a2e)](https://github.com/parinitat19-beep?tab=followers)
+[![Profile Views](https://komarev.com/ghpvc/?username=parinitat19-beep&color=58a6ff&style=flat-square&label=Profile+Views)](https://github.com/parinitat19-beep)
+&nbsp;
+[![GitHub followers](https://img.shields.io/github/followers/parinitat19-beep?style=flat-square&color=58a6ff&labelColor=0d1117&label=Followers)](https://github.com/parinitat19-beep?tab=followers)
+&nbsp;
+[![Repos](https://img.shields.io/badge/Repos-11-58a6ff?style=flat-square&labelColor=0d1117)](https://github.com/parinitat19-beep?tab=repositories)
 
 </div>
 
 ---
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="coding gif" />
+## ⚡ Who Am I — in 10 seconds
 
-## 🌟 About Me
-
-```python
-class Parinita:
-    name       = "Parinita Tiwari"
-    location   = "📍 Bengaluru, India"
-    role       = "Full Stack & Data Engineer"
-
-    languages  = ["Python", "Java", "TypeScript",
-                  "Scala", "C", "HTML/CSS"]
-    cloud      = ["AWS ☁️", "GCP ☁️", "Vercel ⚡"]
-    passion    = ["Building at the intersection of",
-                  "data, cloud & great UX 🎯"]
-
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build")
-        print("something awesome together 🚀")
-
-me = Parinita()
-me.say_hi()
+```
+╔══════════════════════════════════════════════════════════════╗
+║  👩‍💻  Parinita Tiwari                📍 Bengaluru, India      ║
+║  🎯  Full Stack + DevOps Engineer                            ║
+║  💼  Building end-to-end systems: UI → API → Cloud → Data   ║
+║  🔭  Focused on: React / Next.js · Node · AWS · Docker      ║
+║  📬  parinita.t19@gmail.com                                  ║
+╚══════════════════════════════════════════════════════════════╝
 ```
 
-<br clear="right"/>
+I design and ship **production-ready applications** — from pixel-perfect frontends to containerized backends deployed on cloud infrastructure. I love the full picture: great UX, clean APIs, solid DevOps pipelines, and data that scales.
 
 ---
 
-## 🚀 Tech Universe
+## 🏗️ Core Stack
 
 <div align="center">
 
-### 🖥️ Languages
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+### Frontend
+![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![React Native](https://img.shields.io/badge/React_Native-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-0d1117?style=for-the-badge&logo=Flutter&logoColor=54C5F8)
+![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=E34F26)
 
-### ⚛️ Frontend & Frameworks
-![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404d59?style=for-the-badge&logo=express&logoColor=#61DAFB)
-![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+### Backend & APIs
+![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=6DA55F)
+![Express.js](https://img.shields.io/badge/Express.js-0d1117?style=for-the-badge&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-0d1117?style=for-the-badge&logo=django&logoColor=092E20)
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
+![Scala](https://img.shields.io/badge/Scala-0d1117?style=for-the-badge&logo=scala&logoColor=DC322F)
 
-### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-2C5263?style=for-the-badge&logo=jenkins&logoColor=white)
+### ☁️ Cloud & DevOps ← *My Playground*
+![AWS](https://img.shields.io/badge/AWS-0d1117?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
+![GCP](https://img.shields.io/badge/Google_Cloud-0d1117?style=for-the-badge&logo=google-cloud&logoColor=4285F4)
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Jenkins](https://img.shields.io/badge/Jenkins-0d1117?style=for-the-badge&logo=jenkins&logoColor=D24939)
+![Vercel](https://img.shields.io/badge/Vercel-0d1117?style=for-the-badge&logo=vercel&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-0d1117?style=for-the-badge&logo=apache&logoColor=D42029)
+![.NET](https://img.shields.io/badge/.NET-0d1117?style=for-the-badge&logo=.net&logoColor=5C2D91)
 
-### 🗄️ Data Engineering & Databases
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black)
-![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
+### 🗄️ Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=4ea94b)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=336791)
+![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=4479A1)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-0d1117?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=4053D6)
 
-### 🤖 Data Science & ML
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+### 📊 Data Engineering
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-0d1117?style=for-the-badge&logo=apachespark&logoColor=E35A16)
+![Hadoop](https://img.shields.io/badge/Hadoop-0d1117?style=for-the-badge&logo=apachehadoop&logoColor=66CCFF)
+![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=150458)
+![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=for-the-badge&logo=PyTorch&logoColor=EE4C2C)
+![Power BI](https://img.shields.io/badge/Power_BI-0d1117?style=for-the-badge&logo=powerbi&logoColor=F2C811)
+![Anaconda](https://img.shields.io/badge/Anaconda-0d1117?style=for-the-badge&logo=anaconda&logoColor=44A833)
 
-### 🎨 Design Tools
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=parinitat19-beep&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parinitat19-beep&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
-</div>
-
-<div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=parinitat19-beep&theme=tokyonight&hide_border=true" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=parinitat19-beep&theme=tokyonight&no-frame=true&no-bg=true&column=7)
-
-</div>
-
----
-
-## 🌊 Contribution Graph
-
-<div align="center">
-
-[![Parinita's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=parinitat19-beep&theme=tokyo-night&hide_border=true&area=true)](https://github.com/parinitat19-beep)
+### 🎨 Design & Tooling
+![Figma](https://img.shields.io/badge/Figma-0d1117?style=for-the-badge&logo=figma&logoColor=F24E1E)
+![Jira](https://img.shields.io/badge/Jira-0d1117?style=for-the-badge&logo=jira&logoColor=0A0FFF)
+![Notion](https://img.shields.io/badge/Notion-0d1117?style=for-the-badge&logo=notion&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-0d1117?style=for-the-badge&logo=Arduino&logoColor=00979D)
+![Cisco](https://img.shields.io/badge/Cisco-0d1117?style=for-the-badge&logo=cisco&logoColor=049fd9)
 
 </div>
 
@@ -135,37 +92,72 @@ me.say_hi()
 
 <div align="center">
 
-[![Urban Flooding](https://github-readme-stats.vercel.app/api/pin/?username=parinitat19-beep&repo=Urban-Flooding-&theme=tokyonight&hide_border=true)](https://github.com/parinitat19-beep/Urban-Flooding-)
-[![Velocis](https://github-readme-stats.vercel.app/api/pin/?username=parinitat19-beep&repo=Velocis&theme=tokyonight&hide_border=true)](https://github.com/parinitat19-beep/Velocis)
-
-[![Aegis](https://github-readme-stats.vercel.app/api/pin/?username=parinitat19-beep&repo=Aegis&theme=tokyonight&hide_border=true)](https://github.com/parinitat19-beep/Aegis)
-[![StockMaster](https://github-readme-stats.vercel.app/api/pin/?username=parinitat19-beep&repo=StockMaster&theme=tokyonight&hide_border=true)](https://github.com/parinitat19-beep/StockMaster)
-
-</div>
-
----
-
-## 💬 Dev Quote of the Day
-
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+| Project | What it does | Stack |
+|---|---|---|
+| 🌊 [**Urban-Flooding**](https://github.com/parinitat19-beep/Urban-Flooding-) | Real-time urban flood monitoring & risk analysis | Python · Data Engineering |
+| 🤖 [**Velocis**](https://github.com/parinitat19-beep/Velocis) | AI senior engineer in your repo — automated reviews, tests & docs | TypeScript · GenAI |
+| 🛡️ [**Aegis**](https://github.com/parinitat19-beep/Aegis) | Full-stack disaster management with real-time alerts | TypeScript · Full Stack |
+| 📦 [**StockMaster**](https://github.com/parinitat19-beep/StockMaster) | Inventory management system (Odoo Hackathon) | TypeScript |
+| 🚀 [**DevOps Bootcamp**](https://github.com/parinitat19-beep/DevOps-Bootcamp) | Structured DevOps learning — CI/CD, K8s, IaC & more | DevOps · Cloud |
 
 </div>
 
 ---
 
-## 🤝 Let's Connect
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=parinitat19-beep&theme=github_dark&hide_border=true&show_icons=true&include_all_commits=true&count_private=false&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&bg_color=0d1117" />
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parinitat19-beep&theme=github_dark&hide_border=true&layout=compact&title_color=58a6ff&text_color=8b949e&bg_color=0d1117" />
+</div>
+
+<div align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=parinitat19-beep&theme=github-dark-blue&hide_border=true&ring=58a6ff&fire=ff6584&currStreakLabel=58a6ff" />
+</div>
+
+---
+
+## 🏆 Trophies
 
 <div align="center">
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/tiwariparinita.t19)
-[![X / Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=white)](https://x.com/parinita_t19)
-[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/user/Parinita_19)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parinita.t19@gmail.com)
+![](https://github-profile-trophy.vercel.app/?username=parinitat19-beep&theme=gitdimmed&no-frame=true&no-bg=true&column=7&margin-w=8)
+
+</div>
+
+---
+
+## 🌊 Contribution Activity
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=parinitat19-beep&theme=github-compact&hide_border=true&area=true&color=58a6ff&line=58a6ff&point=ffffff&area_color=1a2c4e)](https://github.com/parinitat19-beep)
+
+</div>
+
+---
+
+## 💬 Dev Quote
+
+<div align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+</div>
+
+---
+
+## 🤝 Reach Me
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/parinita.t19@gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:parinita.t19@gmail.com)
+[![Instagram](https://img.shields.io/badge/@tiwariparinita.t19-0d1117?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://instagram.com/tiwariparinita.t19)
+[![X](https://img.shields.io/badge/@parinita_t19-0d1117?style=for-the-badge&logo=x&logoColor=white)](https://x.com/parinita_t19)
+[![Reddit](https://img.shields.io/badge/u/Parinita_19-0d1117?style=for-the-badge&logo=reddit&logoColor=FF4500)](https://reddit.com/user/Parinita_19)
+
+</div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:E040FB,100:FF6584&height=120&section=footer&animation=fadeIn" width="100%" />
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,40:1a1a2e,70:16213e,100:0f3460&height=100&section=footer" width="100%" />
